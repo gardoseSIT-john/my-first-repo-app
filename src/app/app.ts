@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   //protected readonly title = signal('my-first-repo-app');
   title = 'Hello Github, this is my first Angular Push!'
+  testTitle = "JEWOO"
 }
